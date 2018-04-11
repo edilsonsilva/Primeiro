@@ -18,6 +18,8 @@ namespace PrimeiroGit
          
           resultado = valor1+valor2;
 
+          Console.WriteLine("O resultada da soma é: "+resultado);
+
         }
     }
 }
